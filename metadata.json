@@ -1,0 +1,6 @@
+{
+  "uuid": "bolotie@com.github.bsdf",
+  "name": "BoloTie",
+  "shell-version": ["3.18.4"],
+  "description": "A minimalist currently-playing song indicator. Ported from the Untitled Bowtie theme"
+}
