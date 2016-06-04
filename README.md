@@ -1,0 +1,2 @@
+bolotie-gnome-shell-extension
+=============================
